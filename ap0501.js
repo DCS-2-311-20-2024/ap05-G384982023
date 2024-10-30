@@ -62,7 +62,6 @@ function init() {
   // 立方体は影を作る
   cube.castShadow = true;
   cube.receiveShadow = true;
-  scene.add(cube);
   // シーンに立方体を加える
   scene.add(cube);
 
